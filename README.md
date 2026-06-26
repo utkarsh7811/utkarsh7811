@@ -6,6 +6,11 @@
 <!-- Dynamic Typing SVG Subtitle -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&width=450&center=true&vCenter=true&lines=Cloud+%26+DevOps+Engineer;AWS+Cloud+Enthusiast;Passionate+Problem+Solver" alt="Typing Subtitle" />
 
+<!-- Animated Avatar Image -->
+<p align="center">
+  <img src="assets/profile-animated.svg" width="180" alt="Utkarsh Tiwari" />
+</p>
+
 <p align="center">
   <!-- Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=utkarsh7811&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
