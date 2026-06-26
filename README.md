@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:3b82f6&height=220&section=header&text=Utkarsh%20Tiwari&fontSize=50&animation=fadeIn&theme=dark" width="100%" alt="Header Banner" />
 
 <!-- Dynamic Typing SVG Subtitle -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&width=450&center=true&vCenter=true&lines=Cloud+%26+DevOps+Engineer;AWS+Cloud+Enthusiast;Passionate+Problem+Solver" alt="Typing Subtitle" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&width=450&center=true&vCenter=true&lines=Cloud+and+DevOps+Engineer;AWS+Cloud+Enthusiast;Passionate+Problem+Solver" alt="Typing Subtitle" />
 
 <!-- Animated Avatar Image -->
 <p align="center">
